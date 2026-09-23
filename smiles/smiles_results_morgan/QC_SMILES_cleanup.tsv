@@ -1,0 +1,5 @@
+smiles_cleanup_status	n_drugs	fraction
+original	8143	0.9698666031443545
+missing	201	0.023939971414959505
+selected_first_valid_semicolon_candidate	49	0.005836112434492616
+unresolved	3	0.00035731300619342544
