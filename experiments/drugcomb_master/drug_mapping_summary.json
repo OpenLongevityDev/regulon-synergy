@@ -1,0 +1,12 @@
+{
+  "training_unique_drugs": 4268,
+  "mapped_unique_drugs": 4174,
+  "exact_matches": 4174,
+  "normalized_matches": 0,
+  "unmapped_unique_drugs": 0,
+  "ambiguous_unique_drugs": 94,
+  "unique_drug_mapping_percent": 97.79756326148079,
+  "training_samples": 639410,
+  "samples_with_both_drugs_mapped": 593529,
+  "sample_mapping_percent": 92.82447881640887
+}

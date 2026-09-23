@@ -1,0 +1,26 @@
+{
+  "input_file": "/data/analysis/combinations/input/experiments/DrugComb_summary.tsv",
+  "zip_threshold": 10.0,
+  "raw_rows": 739964,
+  "training_samples": 639410,
+  "unique_pair_contexts": 635201,
+  "unique_drug_a_names": 3644,
+  "unique_drug_b_names": 2820,
+  "unique_drugs_total": 4268,
+  "unique_cell_lines": 288,
+  "unique_studies": 26,
+  "label_counts": {
+    "no_interaction": 480414,
+    "synergy": 82821,
+    "antagonism": 76175
+  },
+  "label_percent": {
+    "no_interaction": 75.13395161164198,
+    "synergy": 12.952722040631206,
+    "antagonism": 11.91332634772681
+  },
+  "replicated_samples": 40444,
+  "replicate_class_inconsistent": 7659,
+  "pair_contexts_multi_study": 4188,
+  "multi_study_pair_contexts_with_label_conflict": 1921
+}

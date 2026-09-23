@@ -1,0 +1,289 @@
+drugcomb_cell_line	normalized_name	ModelID	depmap_matched_name	depmap_name_source	mapping_status
+22Rv1	22rv1	ACH-000956	22RV1	canonical_base	mapped
+3D7	3d7				unmapped
+451Lu	451lu	ACH-001002	451LU	canonical_base	mapped
+4T1	4t1				unmapped
+4T1FGF	4t1fgf				unmapped
+501-mel	501mel	ACH-001003	501MEL	canonical_base	mapped
+647V	647v	ACH-000896	647V	canonical_base	mapped
+786-0	7860				unmapped
+967 WT	967wt				unmapped
+A-673	a673	ACH-000052	A673	canonical_base	mapped
+A101D	a101d	ACH-000008	A101D	canonical_base	mapped
+A2058	a2058	ACH-000788	A2058	canonical_base	mapped
+A2780	a2780	ACH-000657	A2780	canonical_base	mapped
+A375	a375				ambiguous
+A427	a427	ACH-000757	A427	canonical_base	mapped
+A498	a498	ACH-000555	A498	canonical_base	mapped
+A549	a549	ACH-000681	A549	canonical_base	mapped
+ACHN	achn	ACH-000046	ACHN	canonical_base	mapped
+AGS	ags	ACH-000880	AGS	canonical_base	mapped
+BFTC-905	bftc905	ACH-000802	BFTC905	canonical_base	mapped
+BT-20	bt20	ACH-000536	BT20	canonical_base	mapped
+BT-474	bt474	ACH-000927	BT474	canonical_base	mapped
+BT-549	bt549	ACH-000288	BT549	canonical_base	mapped
+C32 [Human colon adenocarcinoma]	c32[humancolonadenocarcinoma]				unmapped
+C75	c75	ACH-001458	C75	canonical_base	mapped
+CAKI-1	caki1	ACH-000433	CAKI1	canonical_base	mapped
+CAL-120	cal120	ACH-000212	CAL120	canonical_base	mapped
+CAL-148	cal148	ACH-000902	CAL148	canonical_base	mapped
+CAL-51	cal51	ACH-000856	CAL51	canonical_base	mapped
+CAL120FGF	cal120fgf				unmapped
+CAMA-1	cama1	ACH-000783	CAMA1	canonical_base	mapped
+CAOV3	caov3	ACH-000713	CAOV3	canonical_base	mapped
+CBRC002	cbrc002				unmapped
+CBRC007	cbrc007				unmapped
+CBRC008	cbrc008				unmapped
+CBRC013	cbrc013				unmapped
+CBRC014	cbrc014				unmapped
+CBRC016	cbrc016				unmapped
+CBRC017	cbrc017				unmapped
+CBRC026	cbrc026				unmapped
+CBRC029	cbrc029				unmapped
+CBRC034	cbrc034				unmapped
+CBRC042	cbrc042				unmapped
+CBRC043	cbrc043				unmapped
+CBRC050	cbrc050				unmapped
+CBRC056	cbrc056				unmapped
+CBRC058	cbrc058				unmapped
+CC20 [Human colon adenocarcinoma]	cc20[humancolonadenocarcinoma]				unmapped
+CCRF-CEM	ccrfcem	ACH-001738	CCRFCEM	canonical_base	mapped
+COLO 205	colo205	ACH-001039	COLO205	canonical_base	mapped
+COLO 741	colo741	ACH-000582	COLO741	canonical_base	mapped
+COLO 792	colo792	ACH-000968	COLO792	canonical_base	mapped
+COLO 800	colo800	ACH-000401	COLO800	canonical_base	mapped
+COLO 829	colo829				ambiguous
+COLO 858	colo858				unmapped
+COLO320DM	colo320dm				unmapped
+Calu-1	calu1	ACH-000511	CALU1	canonical_base	mapped
+Calu-3	calu3	ACH-000392	CALU3	canonical_base	mapped
+Calu-6	calu6	ACH-000264	CALU6	canonical_base	mapped
+DD2	dd2				unmapped
+DDLS8817	ddls8817				unmapped
+DIPG25	dipg25				unmapped
+DLD1	dld1	ACH-001061	DLD1	canonical_base	mapped
+DMS 114	dms114	ACH-000530	DMS114	canonical_base	mapped
+DMS114FGF	dms114fgf				unmapped
+DU-145	du145	ACH-000979	DU145	canonical_base	mapped
+DU4475	du4475	ACH-000258	DU4475	canonical_base	mapped
+DuckCelt-T17	duckceltt17				unmapped
+ED-40515	ed40515				unmapped
+EFM192B	efm192b	ACH-002587	EFM192B	canonical_base	mapped
+EKVX	ekvx	ACH-000706	EKVX	canonical_base	mapped
+ES2	es2	ACH-000906	ES2	canonical_base	mapped
+EW-8	ew8	ACH-000499	EW8	canonical_base	mapped
+Evsa-T	evsat	ACH-001065	EVSAT	canonical_base	mapped
+G-361	g361	ACH-000572	G361	canonical_base	mapped
+HB3	hb3				unmapped
+HCA7	hca7				unmapped
+HCC-2998	hcc2998	ACH-001081	HCC2998	canonical_base	mapped
+HCC1143	hcc1143				ambiguous
+HCC1187	hcc1187				ambiguous
+HCC1395	hcc1395				ambiguous
+HCC1419	hcc1419	ACH-000277	HCC1419	canonical_base	mapped
+HCC1428	hcc1428	ACH-000352	HCC1428	canonical_base	mapped
+HCC1428-LTED	hcc1428lted				unmapped
+HCC1500	hcc1500	ACH-000349	HCC1500	canonical_base	mapped
+HCC1569	hcc1569	ACH-000930	HCC1569	canonical_base	mapped
+HCC1806	hcc1806	ACH-000624	HCC1806	canonical_base	mapped
+HCC1937	hcc1937				ambiguous
+HCC1954	hcc1954				ambiguous
+HCC38	hcc38				ambiguous
+HCC70	hcc70	ACH-000668	HCC70	canonical_base	mapped
+HCT-15	hct15	ACH-000997	HCT15	canonical_base	mapped
+HCT116	hct116	ACH-000971	HCT116	canonical_base	mapped
+HDLM-2	hdlm2	ACH-000267	HDLM2	canonical_base	mapped
+HL-60(TB)	hl60(tb)				unmapped
+HOP-62	hop62	ACH-000861	HOP62	canonical_base	mapped
+HOP-92	hop92	ACH-000825	HOP92	canonical_base	mapped
+HS 578T	hs578t	ACH-000148	HS578T	canonical_base	mapped
+HT-1197	ht1197	ACH-000547	HT1197	canonical_base	mapped
+HT-1376	ht1376	ACH-000724	HT1376	canonical_base	mapped
+HT144	ht144				ambiguous
+HT29	ht29	ACH-000552	HT29	canonical_base	mapped
+Huh-7	huh7	ACH-000480	HUH7	canonical_base	mapped
+Hx147	hx147				unmapped
+IGROV1	igrov1	ACH-000966	IGROV1	canonical_base	mapped
+IPC-298	ipc298	ACH-000915	IPC298	canonical_base	mapped
+IST-MEL1	istmel1	ACH-002143	ISTMEL1	canonical_base	mapped
+J82	j82				ambiguous
+JHH-136	jhh136				unmapped
+JHH-520	jhh520				unmapped
+JMSU-1	jmsu1	ACH-000753	JMSU1	canonical_base	mapped
+JMSU1FGF	jmsu1fgf				unmapped
+K-562	k562	ACH-000551	K562	canonical_base	mapped
+KATO III	katoiii	ACH-000793	KATOIII	canonical_base	mapped
+KATOIIIFGF	katoiiifgf				unmapped
+KATOIIIHIGH4547	katoiiihigh4547				unmapped
+KB-3-1	kb31				unmapped
+KB-ChR-8-5-11	kbchr8511				unmapped
+KBM-7	kbm7				unmapped
+KM12	km12	ACH-000969	KM12	canonical_base	mapped
+KMS-11	kms11	ACH-000714	KMS11	canonical_base	mapped
+KMSIIFGF	kmsiifgf				unmapped
+KMSIIHIGH4547	kmsiihigh4547				unmapped
+KPL-4	kpl4				unmapped
+KPL1	kpl1	ACH-000028	KPL1	canonical_base	mapped
+KU-19-19	ku1919	ACH-000486	KU1919	canonical_base	mapped
+L-1236	l1236	ACH-000702	L1236	canonical_base	mapped
+L-428	l428	ACH-000754	L428	canonical_base	mapped
+LB2518-MEL	lb2518mel	ACH-002152	LB2518MEL	canonical_base	mapped
+LNCAP	lncap				unmapped
+LNCaP-AI	lncapai				unmapped
+LOVO	lovo	ACH-000950	LOVO	canonical_base	mapped
+LOX IMVI	loximvi	ACH-000750	LOXIMVI	canonical_base	mapped
+LS174T	ls174t	ACH-002555	LS174T	canonical_base	mapped
+LS513	ls513	ACH-000007	LS513	canonical_base	mapped
+M14	m14	ACH-002159	M14	canonical_base	mapped
+MALME-3M	malme3m	ACH-000477	MALME3M	canonical_base	mapped
+MCF7	mcf7	ACH-000019	MCF7	canonical_base	mapped
+MCF7F10016	mcf7f10016				unmapped
+MCF7F10016FGF	mcf7f10016fgf				unmapped
+MCF7F1003	mcf7f1003				unmapped
+MCF7F1003FGF	mcf7f1003fgf				unmapped
+MCF7NFGF	mcf7nfgf				unmapped
+MCF7SHIODA	mcf7shioda				unmapped
+MCF7T52	mcf7t52				unmapped
+MDA-MB-157	mdamb157	ACH-000621	MDAMB157	canonical_base	mapped
+MDA-MB-175-VII	mdamb175vii	ACH-000759	MDAMB175VII	canonical_base	mapped
+MDA-MB-231	mdamb231	ACH-000768	MDAMB231	canonical_base	mapped
+MDA-MB-361	mdamb361	ACH-000934	MDAMB361	canonical_base	mapped
+MDA-MB-415	mdamb415	ACH-000876	MDAMB415	canonical_base	mapped
+MDA-MB-435	mdamb435	ACH-002635	MDAMB435	canonical_base	mapped
+MDA-MB-453	mdamb453	ACH-000910	MDAMB453	canonical_base	mapped
+MDA-MB-468	mdamb468	ACH-000849	MDAMB468	canonical_base	mapped
+MDAMB134V1	mdamb134v1				unmapped
+MDAMB134V1FGF	mdamb134v1fgf				unmapped
+MDAMB436	mdamb436	ACH-000573	MDAMB436	canonical_base	mapped
+MFM-223	mfm223	ACH-001819	MFM223	canonical_base	mapped
+MGH-U3	mghu3				unmapped
+MGHU3FGF	mghu3fgf				unmapped
+MMAc-SF	mmacsf	ACH-002162	MMACSF	canonical_base	mapped
+MOLT-4	molt4	ACH-001127	MOLT4	canonical_base	mapped
+MSTO	msto				unmapped
+MZ-MEL-2	mzmel2				unmapped
+MZ-MEL-7	mzmel7				unmapped
+Mak	mak				unmapped
+MeWo	mewo	ACH-000987	MEWO	canonical_base	mapped
+Mel Ho	melho	ACH-000450	MELHO	canonical_base	mapped
+NCI-H1299	ncih1299	ACH-000510	NCIH1299	canonical_base	mapped
+NCI-H1437	ncih1437	ACH-000589	NCIH1437	canonical_base	mapped
+NCI-H1563	ncih1563	ACH-000892	NCIH1563	canonical_base	mapped
+NCI-H1703	ncih1703	ACH-000747	NCIH1703	canonical_base	mapped
+NCI-H1793	ncih1793	ACH-000888	NCIH1793	canonical_base	mapped
+NCI-H1975	ncih1975	ACH-000587	NCIH1975	canonical_base	mapped
+NCI-H2085	ncih2085	ACH-000451	NCIH2085	canonical_base	mapped
+NCI-H2126	ncih2126	ACH-000785	NCIH2126	canonical_base	mapped
+NCI-H2170	ncih2170	ACH-000481	NCIH2170	canonical_base	mapped
+NCI-H2228	ncih2228	ACH-000447	NCIH2228	canonical_base	mapped
+NCI-H226	ncih226	ACH-000367	NCIH226	canonical_base	mapped
+NCI-H2291	ncih2291	ACH-000718	NCIH2291	canonical_base	mapped
+NCI-H3122	ncih3122	ACH-000337	NCIH3122	canonical_base	mapped
+NCI-H322	ncih322	ACH-000837	NCIH322	canonical_base	mapped
+NCI-H322M	ncih322m	ACH-002172	NCIH322M	canonical_base	mapped
+NCI-H358	ncih358	ACH-000860	NCIH358	canonical_base	mapped
+NCI-H460	ncih460	ACH-000463	NCIH460	canonical_base	mapped
+NCI-H522	ncih522	ACH-000343	NCIH522	canonical_base	mapped
+NCI-H548	ncih548				unmapped
+NCI-H747	ncih747	ACH-000403	NCIH747	canonical_base	mapped
+NCI-H838	ncih838	ACH-000416	NCIH838	canonical_base	mapped
+NCI/ADR-RES	nciadrres	ACH-002627	NCIADRRES	canonical_base	mapped
+NCIH1650	ncih1650	ACH-000035	NCIH1650	canonical_base	mapped
+NCIH1703FGF	ncih1703fgf				unmapped
+NCIH2122	ncih2122	ACH-000311	NCIH2122	canonical_base	mapped
+NCIH23	ncih23	ACH-000900	NCIH23	canonical_base	mapped
+NCIH520	ncih520	ACH-000395	NCIH520	canonical_base	mapped
+NCIH520FGF	ncih520fgf				unmapped
+OCUBM	ocubm	ACH-002179	OCUBM	canonical_base	mapped
+OV90	ov90	ACH-000291	OV90	canonical_base	mapped
+OVCAR-4	ovcar4	ACH-000617	OVCAR4	canonical_base	mapped
+OVCAR-5	ovcar5	ACH-001151	OVCAR5	canonical_base	mapped
+OVCAR-8	ovcar8	ACH-000696	OVCAR8	canonical_base	mapped
+OVCAR3	ovcar3				unmapped
+PA1	pa1	ACH-001374	PA1	canonical_base	mapped
+PANC-1	panc1	ACH-000164	PANC1	canonical_base	mapped
+PC-3	pc3	ACH-000090	PC3	canonical_base	mapped
+PC-9	pc9	ACH-000779	PC9	canonical_base	mapped
+PC346FLU1AM	pc346flu1am				unmapped
+PC346Flu1	pc346flu1				unmapped
+PTENLNCAP	ptenlncap				unmapped
+PTENLNCAPAI	ptenlncapai				unmapped
+PTENPC346FLU1	ptenpc346flu1				unmapped
+PTENVCAP	ptenvcap				unmapped
+RD	rd	ACH-000169	RD	canonical_base	mapped
+RKO	rko	ACH-000943	RKO	canonical_base	mapped
+RPMI-8226	rpmi8226	ACH-000817	RPMI8226	canonical_base	mapped
+RPMI7951	rpmi7951	ACH-000348	RPMI7951	canonical_base	mapped
+RT-112	rt112	ACH-000473	RT112	canonical_base	mapped
+RT-4	rt4	ACH-000242	RT4	canonical_base	mapped
+RT112FGF	rt112fgf				unmapped
+RT4FGF	rt4fgf				unmapped
+RVH-421	rvh421				ambiguous
+RXF 393	rxf393	ACH-002195	RXF393	canonical_base	mapped
+Rh36	rh36	ACH-001751	RH36	canonical_base	mapped
+SF-268	sf268	ACH-000655	SF268	canonical_base	mapped
+SF-295	sf295	ACH-000376	SF295	canonical_base	mapped
+SF-539	sf539	ACH-000273	SF539	canonical_base	mapped
+SK-BR-3	skbr3	ACH-000017	SKBR3	canonical_base	mapped
+SK-MEL-2	skmel2	ACH-001190	SKMEL2	canonical_base	mapped
+SK-MEL-28	skmel28	ACH-000615	SKMEL28	canonical_base	mapped
+SK-MEL-5	skmel5	ACH-000730	SKMEL5	canonical_base	mapped
+SK-OV-3	skov3	ACH-000811	SKOV3	canonical_base	mapped
+SKMEL30	skmel30	ACH-000810	SKMEL30	canonical_base	mapped
+SKMES1	skmes1	ACH-000665	SKMES1	canonical_base	mapped
+SMS-CTR	smsctr	ACH-001196	SMSCTR	canonical_base	mapped
+SN12C	sn12c	ACH-002199	SN12C	canonical_base	mapped
+SNB-19	snb19	ACH-001198	SNB19	canonical_base	mapped
+SNB-75	snb75	ACH-000504	SNB75	canonical_base	mapped
+SNU-16	snu16	ACH-000581	SNU16	canonical_base	mapped
+SNU16FGF	snu16fgf				unmapped
+SNU16HIGH4547	snu16high4547				unmapped
+SR	sr	ACH-001665	SR	canonical_base	mapped
+SU-DIPG-XIII	sudipgxiii				unmapped
+SUM149PT	sum149pt	ACH-001390	SUM149PT	canonical_base	mapped
+SUM52PE	sum52pe	ACH-001396	SUM52PE	canonical_base	mapped
+SUM52PEFGF	sum52pefgf				unmapped
+SUM52PEHIGH4547	sum52pehigh4547				unmapped
+SW-620	sw620	ACH-000651	SW620	canonical_base	mapped
+SW403	sw403	ACH-000820	SW403	canonical_base	mapped
+SW48	sw48	ACH-000958	SW48	canonical_base	mapped
+SW527	sw527	ACH-001825	SW527	canonical_base	mapped
+SW780	sw780	ACH-000384	SW780	canonical_base	mapped
+SW780FGF	sw780fgf				unmapped
+SW837	sw837	ACH-000421	SW837	canonical_base	mapped
+SW900	sw900	ACH-000669	SW900	canonical_base	mapped
+SW948	sw948	ACH-000680	SW948	canonical_base	mapped
+T-47D	t47d	ACH-000147	T47D	canonical_base	mapped
+T24	t24	ACH-000018	T24	canonical_base	mapped
+T98G	t98g	ACH-000571	T98G	canonical_base	mapped
+TC-32	tc32	ACH-001205	TC32	canonical_base	mapped
+TC-71	tc71	ACH-000424	TC71	canonical_base	mapped
+TCCSUP	tccsup	ACH-000720	TCCSUP	canonical_base	mapped
+TK-10	tk10	ACH-001208	TK10	canonical_base	mapped
+TMD8	tmd8				unmapped
+U-HO1	uho1	ACH-001685	UHO1	canonical_base	mapped
+U251	u251				unmapped
+U3005MG	u3005mg				unmapped
+U3013MG	u3013mg				unmapped
+U3024MG	u3024mg				unmapped
+U3034MG	u3034mg				unmapped
+U3068MG	u3068mg				unmapped
+UACC-257	uacc257	ACH-000579	UACC257	canonical_base	mapped
+UACC-812	uacc812	ACH-000568	UACC812	canonical_base	mapped
+UACC62	uacc62				ambiguous
+UM-UC-3	umuc3	ACH-000522	UMUC3	canonical_base	mapped
+UO-31	uo31	ACH-000428	UO31	canonical_base	mapped
+UWB1289	uwb1289	ACH-001418	UWB1289	canonical_base	mapped
+UWB1289+BRCA1	uwb1289+brca1				unmapped
+VCAP	vcap	ACH-000115	VCAP	canonical_base	mapped
+VM-CUB-1	vmcub1	ACH-000545	VMCUB1	canonical_base	mapped
+VeroE6	veroe6				unmapped
+WM115	wm115	ACH-000304	WM115	canonical_base	mapped
+WM1716	wm1716				unmapped
+WM1745	wm1745				unmapped
+WM3526	wm3526				unmapped
+WM3619	wm3619				unmapped
+WT2-iPS	wt2ips				unmapped
+ZR75-LTED	zr75lted				unmapped
+ZR751	zr751	ACH-000097	ZR751	canonical_base	mapped
+ZR751FGF	zr751fgf				unmapped

@@ -1,0 +1,12 @@
+{
+  "unique_drugcomb_cell_lines": 288,
+  "mapped_cell_lines": 178,
+  "unmapped_cell_lines": 98,
+  "ambiguous_cell_lines": 12,
+  "cell_line_mapping_percent": 61.80555555555556,
+  "training_samples": 639410,
+  "samples_with_context_mapped": 427314,
+  "sample_context_mapping_percent": 66.82942087236671,
+  "samples_with_both_drugs_and_context": 390438,
+  "core_id_coverage_percent": 61.06222924258301
+}
