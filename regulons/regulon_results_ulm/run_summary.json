@@ -1,0 +1,21 @@
+{
+  "n_cell_lines": 1719,
+  "n_expression_genes": 6836,
+  "collectri_edges_total": 42990,
+  "collectri_tfs_total": 1185,
+  "collectri_targets_total": 6675,
+  "fixed_ulm_edges": 41714,
+  "fixed_ulm_tfs": 771,
+  "correlation_method": "spearman",
+  "min_abs_rho": 0.1,
+  "min_targets": 5,
+  "self_edges_removed_from_contextualization": 461,
+  "correlation_edges_evaluated": 40744,
+  "contextualized_edges": 20058,
+  "contextualized_edge_fraction": 0.4922933438052228,
+  "contextualized_ulm_tfs": 580,
+  "shared_fixed_contextualized_tfs": 580,
+  "activity_method": "decoupler ULM",
+  "ulm_statistic": "t-value",
+  "ulm_input": "DepMap TPMLogp1 expression"
+}
