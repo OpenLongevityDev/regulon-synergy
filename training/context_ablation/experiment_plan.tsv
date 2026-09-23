@@ -1,0 +1,106 @@
+holdout	context_config	context_label	seed
+unseen_cell_line	expression	Expression only	42
+unseen_cell_line	pathways	Pathways only	42
+unseen_cell_line	regulons	Regulons only	42
+unseen_cell_line	expression_pathways	Expression + pathways	42
+unseen_cell_line	expression_regulons	Expression + regulons	42
+unseen_cell_line	pathways_regulons	Pathways + regulons	42
+unseen_cell_line	expression_pathways_regulons	Expression + pathways + regulons	42
+unseen_drug	expression	Expression only	42
+unseen_drug	pathways	Pathways only	42
+unseen_drug	regulons	Regulons only	42
+unseen_drug	expression_pathways	Expression + pathways	42
+unseen_drug	expression_regulons	Expression + regulons	42
+unseen_drug	pathways_regulons	Pathways + regulons	42
+unseen_drug	expression_pathways_regulons	Expression + pathways + regulons	42
+unseen_both	expression	Expression only	42
+unseen_both	pathways	Pathways only	42
+unseen_both	regulons	Regulons only	42
+unseen_both	expression_pathways	Expression + pathways	42
+unseen_both	expression_regulons	Expression + regulons	42
+unseen_both	pathways_regulons	Pathways + regulons	42
+unseen_both	expression_pathways_regulons	Expression + pathways + regulons	42
+unseen_cell_line	expression	Expression only	43
+unseen_cell_line	pathways	Pathways only	43
+unseen_cell_line	regulons	Regulons only	43
+unseen_cell_line	expression_pathways	Expression + pathways	43
+unseen_cell_line	expression_regulons	Expression + regulons	43
+unseen_cell_line	pathways_regulons	Pathways + regulons	43
+unseen_cell_line	expression_pathways_regulons	Expression + pathways + regulons	43
+unseen_drug	expression	Expression only	43
+unseen_drug	pathways	Pathways only	43
+unseen_drug	regulons	Regulons only	43
+unseen_drug	expression_pathways	Expression + pathways	43
+unseen_drug	expression_regulons	Expression + regulons	43
+unseen_drug	pathways_regulons	Pathways + regulons	43
+unseen_drug	expression_pathways_regulons	Expression + pathways + regulons	43
+unseen_both	expression	Expression only	43
+unseen_both	pathways	Pathways only	43
+unseen_both	regulons	Regulons only	43
+unseen_both	expression_pathways	Expression + pathways	43
+unseen_both	expression_regulons	Expression + regulons	43
+unseen_both	pathways_regulons	Pathways + regulons	43
+unseen_both	expression_pathways_regulons	Expression + pathways + regulons	43
+unseen_cell_line	expression	Expression only	44
+unseen_cell_line	pathways	Pathways only	44
+unseen_cell_line	regulons	Regulons only	44
+unseen_cell_line	expression_pathways	Expression + pathways	44
+unseen_cell_line	expression_regulons	Expression + regulons	44
+unseen_cell_line	pathways_regulons	Pathways + regulons	44
+unseen_cell_line	expression_pathways_regulons	Expression + pathways + regulons	44
+unseen_drug	expression	Expression only	44
+unseen_drug	pathways	Pathways only	44
+unseen_drug	regulons	Regulons only	44
+unseen_drug	expression_pathways	Expression + pathways	44
+unseen_drug	expression_regulons	Expression + regulons	44
+unseen_drug	pathways_regulons	Pathways + regulons	44
+unseen_drug	expression_pathways_regulons	Expression + pathways + regulons	44
+unseen_both	expression	Expression only	44
+unseen_both	pathways	Pathways only	44
+unseen_both	regulons	Regulons only	44
+unseen_both	expression_pathways	Expression + pathways	44
+unseen_both	expression_regulons	Expression + regulons	44
+unseen_both	pathways_regulons	Pathways + regulons	44
+unseen_both	expression_pathways_regulons	Expression + pathways + regulons	44
+unseen_cell_line	expression	Expression only	45
+unseen_cell_line	pathways	Pathways only	45
+unseen_cell_line	regulons	Regulons only	45
+unseen_cell_line	expression_pathways	Expression + pathways	45
+unseen_cell_line	expression_regulons	Expression + regulons	45
+unseen_cell_line	pathways_regulons	Pathways + regulons	45
+unseen_cell_line	expression_pathways_regulons	Expression + pathways + regulons	45
+unseen_drug	expression	Expression only	45
+unseen_drug	pathways	Pathways only	45
+unseen_drug	regulons	Regulons only	45
+unseen_drug	expression_pathways	Expression + pathways	45
+unseen_drug	expression_regulons	Expression + regulons	45
+unseen_drug	pathways_regulons	Pathways + regulons	45
+unseen_drug	expression_pathways_regulons	Expression + pathways + regulons	45
+unseen_both	expression	Expression only	45
+unseen_both	pathways	Pathways only	45
+unseen_both	regulons	Regulons only	45
+unseen_both	expression_pathways	Expression + pathways	45
+unseen_both	expression_regulons	Expression + regulons	45
+unseen_both	pathways_regulons	Pathways + regulons	45
+unseen_both	expression_pathways_regulons	Expression + pathways + regulons	45
+unseen_cell_line	expression	Expression only	46
+unseen_cell_line	pathways	Pathways only	46
+unseen_cell_line	regulons	Regulons only	46
+unseen_cell_line	expression_pathways	Expression + pathways	46
+unseen_cell_line	expression_regulons	Expression + regulons	46
+unseen_cell_line	pathways_regulons	Pathways + regulons	46
+unseen_cell_line	expression_pathways_regulons	Expression + pathways + regulons	46
+unseen_drug	expression	Expression only	46
+unseen_drug	pathways	Pathways only	46
+unseen_drug	regulons	Regulons only	46
+unseen_drug	expression_pathways	Expression + pathways	46
+unseen_drug	expression_regulons	Expression + regulons	46
+unseen_drug	pathways_regulons	Pathways + regulons	46
+unseen_drug	expression_pathways_regulons	Expression + pathways + regulons	46
+unseen_both	expression	Expression only	46
+unseen_both	pathways	Pathways only	46
+unseen_both	regulons	Regulons only	46
+unseen_both	expression_pathways	Expression + pathways	46
+unseen_both	expression_regulons	Expression + regulons	46
+unseen_both	pathways_regulons	Pathways + regulons	46
+unseen_both	expression_pathways_regulons	Expression + pathways + regulons	46
