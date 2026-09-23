@@ -1,0 +1,19 @@
+{
+  "n_cell_lines": 1719,
+  "n_expression_genes_loaded": 4366,
+  "n_hallmark_pathways_reference": 50,
+  "n_hallmark_memberships_reference": 7318,
+  "n_unique_hallmark_genes_reference": 4380,
+  "n_hallmark_genes_present_depmap": 4366,
+  "n_hallmark_genes_missing_depmap": 14,
+  "n_pathways_scored": 50,
+  "n_ulm_memberships": 7295,
+  "min_targets": 5,
+  "pathway_reference": "MSigDB Hallmark via decoupler.op.hallmark",
+  "pathway_reference_strategy": "fixed across all biological contexts",
+  "pathway_contextualization": "none",
+  "activity_method": "decoupler ULM",
+  "ulm_statistic": "t-value",
+  "ulm_input": "DepMap TPMLogp1 expression",
+  "hallmark_edge_weight": 1.0
+}
