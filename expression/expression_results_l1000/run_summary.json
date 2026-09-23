@@ -1,0 +1,13 @@
+{
+  "n_depmap_cell_lines": 1719,
+  "n_l1000_genes_requested": 978,
+  "n_l1000_genes_present": 942,
+  "n_l1000_genes_missing": 36,
+  "fraction_l1000_genes_present": 0.9631901840490797,
+  "expression_input": "DepMap TPMLogp1",
+  "extra_log_transform": false,
+  "global_zscore_applied": false,
+  "primary_representation": "L1000 landmark gene TPMLogp1 expression",
+  "optional_representation": "within-sample percentile rank",
+  "feature_definition": "fixed external L1000 landmark gene set"
+}
